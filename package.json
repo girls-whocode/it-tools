@@ -74,7 +74,7 @@
     "sql-formatter": "^8.2.0",
     "ts-pattern": "^4.2.2",
     "ua-parser-js": "^1.0.35",
-    "unplugin-auto-import": "^0.16.4",
+    "unplugin-auto-import": "^0.17.1",
     "uuid": "^8.3.2",
     "vue": "^3.3.4",
     "vue-i18n": "^11.2.8",
